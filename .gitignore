@@ -1,0 +1,8 @@
+Vixion.xcodeproj/
+
+VixionTests/
+
+Vixion/*
+
+! Vixion/*.swf
+
